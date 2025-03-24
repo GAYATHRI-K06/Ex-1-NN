@@ -37,6 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+`````
 import pandas as pd                                                 # Importing Libraries
 import io
 from sklearn.preprocessing import StandardScaler
@@ -55,6 +56,7 @@ print('Input:\n',X,'\nOutput:\n',Y)
 Xtrain,Xtest,Ytrain,Ytest = train_test_split(X, Y, test_size=0.2)   # Splitting the data for training & Testing
 print("Xtrain:\n" ,Xtrain, "\nXtest:\n", Xtest)                     # X Train and Test
 print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)                   # Y Train and Test
+```````
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/2a6399ad-15b8-4486-a119-4341512e63c0)
 ## NULL VALUES:
