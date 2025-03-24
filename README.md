@@ -58,7 +58,9 @@ print("Xtrain:\n" ,Xtrain, "\nXtest:\n", Xtest)                     # X Train an
 print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)                   # Y Train and Test
 ```````
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/2a6399ad-15b8-4486-a119-4341512e63c0)
+## DATASET:
+![image](https://github.com/user-attachments/assets/fc0bc87f-69ed-4793-b47c-ffb354eeb7a8)
+
 ## NULL VALUES:
 ![image](https://github.com/user-attachments/assets/c2205711-52be-41bb-8e21-8dea6566b8ad)
 ## NORMALIZED DATA:
